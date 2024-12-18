@@ -1,4 +1,6 @@
-<h2 align="left">"Roger that! Kaunak here, reporting for coding duty—building innovative projects like DAW-XR, Trash to Track, and Stock Market Prediction. Skilled in Python, JavaScript, React, Node.js, and leveraging AI for smarter solutions, with a tech stack including MongoDB, MySQL, and Firebase!"</h2>
+<h2 align="left">"Roger that! Kaunak here, reporting for coding duty—building innovative projects like DAW-XR, Trash to Track, and Stock Market Prediction. Skilled in Python, JavaScript, React, Node.js, and leveraging AI for smarter solutions, with a tech stack including MongoDB, MySQL, and Firebase!"
+-
+</h2>
 
 ###
 
