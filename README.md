@@ -8,6 +8,8 @@ JavaScript, React.js, and Next.js because who doesn’t love building shiny fron
 Node.js because back-end is life (if you’re not making APIs, are you even coding?) 💥
 SQL for when I need to keep my data in check (we don’t like chaos in databases, trust me)
 React Native for mobile apps that work like a charm on both Android and iOS (cross-platform FTW! 🙌)
+</h2>
+<h3>
 Projects that’ll make you wonder, "How did he do that?":
 
 DAW-XR: A VR-based digital audio workstation that won First Prize at the London Muse Hub Hackathon. Built with React-Three-Fiber and Three.js for those immersive audio vibes 🎶. It's like music, but in a whole new dimension (literally).
@@ -17,7 +19,7 @@ Basically, I build tech to make life easier and cooler (also, my GitHub is a ref
 
 Feel free to check out my projects and let’s build something awesome together! 🚀
 -
-</h2>
+</h3>
 
 ###
 
