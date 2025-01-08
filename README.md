@@ -1,23 +1,7 @@
-<h2 align="left"> Hey, I'm Kaunak Bhattacharya — A Computer Science student at the University of Greenwich who spends more time coding than sleeping (probably not healthy, but hey, that's the grind). 😅
-
-Tech Stack? Oh, I got you covered:
-
-C++ & Java for when I want to flex my brain cells 🧠
-Python for everything from data wrangling to making cool AI things happen 🤖
-JavaScript, React.js, and Next.js because who doesn’t love building shiny front-ends that make users go, "Wow, that’s smooth" 💅
-Node.js because back-end is life (if you’re not making APIs, are you even coding?) 💥
-SQL for when I need to keep my data in check (we don’t like chaos in databases, trust me)
-React Native for mobile apps that work like a charm on both Android and iOS (cross-platform FTW! 🙌)
-</h2>
 <h3>
-Projects that’ll make you wonder, "How did he do that?":
+Hey there! I'm Kaunak Bhattacharya, a Computer Science student who speaks fluent Python, dreams in JavaScript, and occasionally wrestles with C++ (it usually wins). I build apps, debug my life, and sometimes even write code that works on the first try! 😎
 
-DAW-XR: A VR-based digital audio workstation that won First Prize at the London Muse Hub Hackathon. Built with React-Three-Fiber and Three.js for those immersive audio vibes 🎶. It's like music, but in a whole new dimension (literally).
-FinTrack: A personal finance app that tracks your expenses. Got bills? I got solutions. 🤑 Built with Firebase and all the speed you’ll ever need.
-Trash to Track: E-waste management app that’s not just a tech project but a planet-saving mission 🌍. Won 3rd place at the London E-Waste Hackathon because saving the Earth is cooler than you think. 🌱
-Basically, I build tech to make life easier and cooler (also, my GitHub is a reflection of my thoughts, which are mostly just lines of code). So, if you’re looking for someone who can bring some humor, creativity, and a whole lot of tech knowledge to the table, you’ve found him.
-
-Feel free to check out my projects and let’s build something awesome together! 🚀
+From crafting snazzy front-ends with React to taming back-end chaos with Node.js and MySQL, I’m all about turning caffeine into clean, scalable code. Got a hackathon idea or a cool project? Let’s team up and make some digital magic! 🚀
 -
 </h3>
 
