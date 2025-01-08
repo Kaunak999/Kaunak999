@@ -1,5 +1,5 @@
 <h3>
-Hey there! I'm Kaunak Bhattacharya, a Computer Science student who speaks fluent Python, dreams in JavaScript, and occasionally wrestles with C++ (it usually wins). I build apps, debug my life, and sometimes even write code that works on the first try! 😎
+Hey there! I'm Kaunak Bhattacharya, a Computer Science student who speaks fluent Python, dreams in JavaScript, and occasionally wrestles with C++ (it usually wins). I build apps, debug my life, and sometimes even write code that works on the first try! (Just Kidding nvm still debuggin!)
 
 From crafting snazzy front-ends with React to taming back-end chaos with Node.js and MySQL, I’m all about turning caffeine into clean, scalable code. Got a hackathon idea or a cool project? Let’s team up and make some digital magic! 🚀
 -
